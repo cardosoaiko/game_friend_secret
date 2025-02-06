@@ -12,6 +12,7 @@
 
 # Time
 
+|<img loading="lazy" src="https://avatars.githubusercontent.com/u/193649141?v=4" width=115><br><sub>Aiko Roberto</sub>]
 
 
 
