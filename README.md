@@ -2,6 +2,10 @@
 
 <h2>🔎 Sobre</h2>
 <p>Projeto desafio utilizado nos cursos de lógica de programação da Alura</p>
+<p> Você precisa fazer um sorteio entre seus amigos ou família? Então o Game do Amigo Secreto é a escolha certa para você¹</p>
+
+![image](https://github.com/user-attachments/assets/66b17a7f-6ce2-43a2-8c7e-cd8406e46139)
+
 
 ##🚀 Tecnologias
 <div>
