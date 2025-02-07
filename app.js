@@ -31,8 +31,9 @@ function atualizarLista() {
 
 function sortearAmigo() {
     if (amigosRestantes.length === 0) return;
+    
     const indice = Math.floor(Math.random() * amigosRestantes.length);
     const sorteado = amigosRestantes.splice(indice, 1)[0];
     
-    document.getElementById("resultado").innerHTML = `<li>${sorteado}</li>`;
+    document.getElementById("resultado").innerHTML = `<li>O amigo secreto sorteado é: ${sorteado}</li>`;
 }
