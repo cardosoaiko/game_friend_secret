@@ -7,10 +7,11 @@
 ![image](https://github.com/user-attachments/assets/66b17a7f-6ce2-43a2-8c7e-cd8406e46139)
 
 <p>É simples!</p>
+
 ![image](https://github.com/user-attachments/assets/757a2094-0d36-457f-a292-3fec8431a0ff)
 <p>Digite os nomes que deseja sortear no campo "Digite um nome", e em seguida dê um clique no botão "Adicionar"</p>
 
-<p>Exemplo</p>
+<p>Exemplo:</p>
 
 ![image](https://github.com/user-attachments/assets/cbacf014-1b41-41f7-88d4-cd141fc5edb7)
 
